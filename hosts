@@ -1,0 +1,5 @@
+[webservers]
+ip addresses of host those used for web
+
+[dbservers]
+ip addresses of host those used for db
